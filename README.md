@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and learning new things
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me on my email is leboombulungeni@gmail.com
+- 📫 You can reach me by sending me an email, my email is leboombulungeni@gmail.com
 
 <!---
 leboombulungni/leboombulungni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
